@@ -1,4 +1,4 @@
-package java_basics.main_method_exercises.aufgabe8;
+package java_basics.main_method_exercises.aufgabe_8;
 
 import java.util.Scanner;
 

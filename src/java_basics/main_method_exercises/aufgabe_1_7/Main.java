@@ -1,4 +1,4 @@
-package java_basics.main_method_exercises.aufgabe1_7;
+package java_basics.main_method_exercises.aufgabe_1_7;
 
 public class Main {
     static void main() {
