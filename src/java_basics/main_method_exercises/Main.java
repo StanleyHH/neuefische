@@ -5,5 +5,9 @@ public class Main {
         System.out.println("Hallo Welt!");
         System.out.println("Hello world!!");
         System.out.println("Moin!");
+
+        int x = 42;
+
+        System.out.println("Was ist " + x);
     }
 }
