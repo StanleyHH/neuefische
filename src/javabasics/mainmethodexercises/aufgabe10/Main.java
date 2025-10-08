@@ -1,9 +1,9 @@
-package java_basics.main_method_exercises.aufgabe_10;
+package javabasics.mainmethodexercises.aufgabe10;
 
 import java.util.Scanner;
 
 public class Main {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Wie heißt du? ");

@@ -1,7 +1,7 @@
-package java_basics.main_method_exercises.aufgabe_9;
+package javabasics.mainmethodexercises.aufgabe09;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         String name1 = "Otto";
         String name2 = "Martin";
         String name3 = "John";

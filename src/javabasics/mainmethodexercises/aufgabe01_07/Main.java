@@ -1,7 +1,7 @@
-package java_basics.main_method_exercises.aufgabe_1_7;
+package javabasics.mainmethodexercises.aufgabe01_07;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         System.out.println("Hallo Welt!");
         System.out.println("Hello world!!");
         System.out.println("Moin!");
