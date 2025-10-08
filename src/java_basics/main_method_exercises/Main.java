@@ -9,5 +9,10 @@ public class Main {
         int x = 42;
 
         System.out.println("Was ist " + x);
+
+        System.out.println("15 + 3 = " + (15 + 3));
+        System.out.println("15 - 3 = " + (15 - 3));
+        System.out.println("15 * 3 = " + (15 * 3));
+        System.out.println("15 / 3 = " + (15 / 3));
     }
 }
