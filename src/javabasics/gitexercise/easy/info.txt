@@ -1,2 +1,0 @@
-Mein erstes Git-Projekt
-update
