@@ -26,4 +26,19 @@ public class Bonus {
 
         return n1;
     }
+
+    public static int[] mergeArrays(int[] a, int[] b) {
+        int length = a.length + b.length;
+        int[] result = new int[length];
+
+        for (int i = 0; i < length; i++) {
+            if (i < a.length) {
+                result[i] = a[i];
+            } else {
+                result[i] = b[i - a.length];
+            }
+        }
+
+        return result;
+    }
 }
