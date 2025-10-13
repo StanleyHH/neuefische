@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/javabasics/testing/easy/pom.xml" />
         <option value="$PROJECT_DIR$/javabasics/testing/unit-test-exercise-easy/pom.xml" />
+        <option value="$PROJECT_DIR$/javabasics/testing/unit-test-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/javabasics/testing/tdd-exercise/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
