@@ -9,4 +9,9 @@ class EasyTest {
         int expected = 5;
         assertEquals(expected, Easy.sum(2, 3));
     }
+
+    @Test
+    void isEven_ShouldReturnTrue_WhenNumberIsEven() {
+        assertTrue(Easy.isEven(668));
+    }
 }
