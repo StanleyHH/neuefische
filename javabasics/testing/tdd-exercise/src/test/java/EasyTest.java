@@ -14,4 +14,9 @@ class EasyTest {
     void isEven_ShouldReturnTrue_WhenNumberIsEven() {
         assertTrue(Easy.isEven(668));
     }
+
+    @Test
+    void isEven_ShouldReturnFalse_WhenNumberIsOdd() {
+        assertFalse(Easy.isEven(443));
+    }
 }
