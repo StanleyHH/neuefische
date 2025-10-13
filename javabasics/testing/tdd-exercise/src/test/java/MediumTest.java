@@ -10,4 +10,9 @@ class MediumTest {
         String expected = "avaJ";
         assertEquals(expected, Medium.reverseString(text));
     }
+
+    @Test
+    void isPalindrome_ShouldReturnTrue_WhenOttoGiven() {
+        assertTrue(Medium.isPalindrome("Otto"));
+    }
 }
