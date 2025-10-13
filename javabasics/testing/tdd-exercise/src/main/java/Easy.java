@@ -10,4 +10,8 @@ public class Easy {
     public static boolean isEven(int num) {
         return num % 2 == 0;
     }
+
+    public static char getFirstCharacter(String text) {
+        return text.charAt(0);
+    }
 }
