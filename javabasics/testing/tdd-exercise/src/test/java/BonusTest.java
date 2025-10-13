@@ -9,4 +9,10 @@ class BonusTest {
         int expected = 120;
         assertEquals(expected, Bonus.factorial(5));
     }
+
+    @Test
+    void fibonacci_ShouldReturn8_When6IsGiven() {
+        int expected = 8;
+        assertEquals(expected, Bonus.fibonacci(6));
+    }
 }
