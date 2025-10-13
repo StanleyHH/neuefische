@@ -19,4 +19,10 @@ class EasyTest {
     void isEven_ShouldReturnFalse_WhenNumberIsOdd() {
         assertFalse(Easy.isEven(443));
     }
+
+    @Test
+    void getFirstCharacter_ShouldReturnH_WhenStringIsHallo() {
+        char expected = 'H';
+        assertEquals(expected, Easy.getFirstCharacter("Hallo"));
+    }
 }
